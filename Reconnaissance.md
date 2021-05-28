@@ -16,3 +16,6 @@ https://docs.google.com/presentation/d/15bdwuAJKwhVwlcijKOXZFI5ZTJT1PdcMUblJVu6d
 ## 6.
 https://www.bugbountyhunter.com/mobile/tutorials-and-guides
 
+## 7. Scope based Recon
+https://blog.cobalt.io/scope-based-recon-smart-recon-tactics-7e72d590eae5
+
