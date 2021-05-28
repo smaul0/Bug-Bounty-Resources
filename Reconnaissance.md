@@ -6,3 +6,6 @@ https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in
 
 ## 3.
 https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html
+
+## 4. 
+https://thehackerish.com/owasp-top-10-the-ultimate-guide/
