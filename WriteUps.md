@@ -6,3 +6,7 @@ https://bugreader.com/reports
 
 ## 3. Hackerone Reports poc videos
 https://github.com/bminossi/AllVideoPocsFromHackerOne
+
+## 4. Pentesrer land
+https://pentester.land/list-of-bug-bounty-writeups.html
+
