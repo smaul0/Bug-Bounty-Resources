@@ -1,4 +1,6 @@
-## 1. Bug in Export to Spreadsheet functionality in web applications
+## Bug in Export to Spreadsheet functionality in web applications
+
+## 1. Details
 https://www.contextis.com/en/blog/comma-separated-vulnerabilities
 
 ## 2. Hackerone Report
