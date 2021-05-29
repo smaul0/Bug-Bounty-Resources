@@ -19,3 +19,6 @@ https://www.bugbountyhunter.com/mobile/tutorials-and-guides
 ## 7. Scope based Recon
 https://blog.cobalt.io/scope-based-recon-smart-recon-tactics-7e72d590eae5
 
+## 8. Mind Map
+https://github.com/imran-parray/Mind-Maps
+
