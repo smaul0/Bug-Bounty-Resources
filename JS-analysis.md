@@ -9,3 +9,13 @@ https://github.com/GerbenJavado/LinkFinder
 
 ## 4. Tool to Find js from a web
 https://github.com/robre/scripthunter
+
+## 5. a javascript change monitoring tool
+https://github.com/robre/jsmon
+
+## 6. Url teacking for changes
+https://github.com/ahussam/url-tracker
+
+## 7.This is a command line tool I use when I want to get notified, on Telegram (on my phone), that something has finished running (on my laptop) 
+https://github.com/ShutdownRepo/telegram-bot-cli
+
