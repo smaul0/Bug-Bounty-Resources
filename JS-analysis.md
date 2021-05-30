@@ -6,3 +6,6 @@ https://infosecwriteups.com/one-token-to-leak-them-all-the-story-of-a-8000-npm-t
 
 ## 3. linkfinder tool
 https://github.com/GerbenJavado/LinkFinder
+
+## 4. Tool to Find js from a web
+https://github.com/robre/scripthunter
