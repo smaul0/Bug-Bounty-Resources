@@ -1,2 +1,3 @@
-# Vulnerability-Write-ups
-Write-ups of All types Bugs
+# Bug Bounty Resources
+
+Writeups and exploit's resource
