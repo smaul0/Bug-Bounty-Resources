@@ -22,3 +22,5 @@ https://blog.cobalt.io/scope-based-recon-smart-recon-tactics-7e72d590eae5
 ## 8. Mind Map
 https://github.com/imran-parray/Mind-Maps
 
+## 9. Github Recon
+https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
