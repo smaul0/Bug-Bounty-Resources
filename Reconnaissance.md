@@ -24,3 +24,6 @@ https://github.com/imran-parray/Mind-Maps
 
 ## 9. Github Recon
 https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+
+## 10. Recon methodology by @xcheater
+https://infosecwriteups.com/recon-methodology-for-bug-hunting-e623120a7ca6
