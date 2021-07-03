@@ -8,3 +8,11 @@ https://thevillagehacker.medium.com/remote-code-execution-due-to-unrestricted-fi
 ## 3.
 https://secgeek.net/bookfresh-vulnerability/
 
+## 4.
+https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a
+
+https://portswigger.net/kb/issues/00500980_file-upload-functionality
+
+https://labs.detectify.com/2015/05/28/building-an-xss-polyglot-through-swf-and-csp/
+
+https://hackerone.com/reports/191380
