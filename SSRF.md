@@ -12,3 +12,7 @@ https://highon.coffee/blog/ssrf-cheat-sheet/#identifying-potential-locations-for
 
 ## 4. Bypass by redirect through own server
 https://infosecwriteups.com/an-exciting-journey-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-fdb8be0b5f79
+
+
+##
+https://d0nut.medium.com/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5
