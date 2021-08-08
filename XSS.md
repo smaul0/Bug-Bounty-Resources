@@ -1,8 +1,8 @@
-## 1.Browser's XSS Filter Bypass Cheat Sheet
+## 1. Browser's XSS Filter Bypass Cheat Sheet
 
 https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
 
-## 2. stored XSS using file upload
+## 2. Stored XSS using file upload
 https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e
 
 ## 3. XSS Through Parameter Pollution
@@ -11,7 +11,7 @@ https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2
 ## 4. XSS via HTTP Headers
 https://brutelogic.com.br/blog/xss-via-http-headers/
 
-## Blind XSS in svg file
+## 5. Blind XSS in svg file
 ```
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC
@@ -32,5 +32,11 @@ https://brutelogic.com.br/blog/xss-via-http-headers/
     </script>
   </svg>
   ```
+
+## 6. PostMessage XSS
+```
+https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba
+```
+
 
 
