@@ -16,3 +16,6 @@ https://book.hacktricks.xyz/
 
 ## 6 howtohunt gitbook
 https://kathan19.gitbook.io/howtohunt/
+
+## 7. Ippsec all tips
+https://ippsec.rocks/?#
