@@ -6,3 +6,7 @@ https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
 
 ## Bypassing and exploiting Bucket Upload Policies and Signed URLs
 https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policies-signed-urls/
+
+## How To Scan AWS's Entire IP Range to Recon SSL Certificates
+
+https://www.daehee.com/scan-aws-ip-ssl-certificates/
