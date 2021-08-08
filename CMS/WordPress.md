@@ -46,9 +46,18 @@ This is one of the common issue on wordpress. To get some bucks with this miscon
 This issue will only acceptable when target website is hiding their current users or they are not publically available. So attacker can use those user data for bruteforcing and other staff
 
 ## Detection
-* visit site.com/wp-json/wp/v2/users/
-* http://target.com/?author=1
-* http://target.com/?rest_route=/wp/v2/users
+* 
+```
+visit site.com/wp-json/wp/v2/users/
+```
+* 
+```
+http://target.com/?author=1
+```
+* 
+```
+http://target.com/?rest_route=/wp/v2/users
+```
 * You will see json data with user info in response
 
 ## 4. Denial of Service via load-scripts.php
