@@ -23,4 +23,8 @@ https://ippsec.rocks/?#
 ## 8. Cves and all bugs payload
 https://github.com/daffainfo/AllAboutBugBounty
 
+## 9. Havkerscrolls Tips
+https://github.com/hackerscrolls/SecurityTips
+
+
 
