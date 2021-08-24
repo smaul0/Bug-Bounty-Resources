@@ -19,3 +19,8 @@ https://kathan19.gitbook.io/howtohunt/
 
 ## 7. Ippsec all tips
 https://ippsec.rocks/?#
+
+## 8. Cves and all bugs payload
+https://github.com/daffainfo/AllAboutBugBounty
+
+
