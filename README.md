@@ -1,3 +1,3 @@
 # Bug Bounty Resources
 
-Writeups and exploit's resource
+Bug Bounty Writeups and exploit's resource
