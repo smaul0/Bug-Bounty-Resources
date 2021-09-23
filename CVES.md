@@ -25,3 +25,7 @@ WordPress Plugin Advanced Order Export For WooCommerce 3.1.7 - Reflected Cross-S
 wp-admin/admin.php?page=wc-order-export&tab=</script><script>alert(1)</script>
 ```
 
+## CVE-2021-40875 
+Improper Access Control in Gurock TestRail versions ≤ 7.2.0.3014 results in sensitive file exposure
+
+* /files.md5 file on the client side of a Gurock TestRail application, disclosing a full list of application files and the corresponding file paths. The corresponding file paths can be tested, and in some cases, result in the disclosure hardcoded credentials, API keys, or other sensitive data.
