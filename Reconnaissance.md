@@ -30,3 +30,6 @@ https://infosecwriteups.com/recon-methodology-for-bug-hunting-e623120a7ca6
 
 ## 11. 
 https://docs.google.com/presentation/d/18o6fwqZB8wqHFYl2M5SO5KMzct8NKVW7G3edgi0XXJk/mobilepresent?slide=id.ge4fdf9c97a_0_316
+
+## 12. Pentesterland
+https://pentester.land/cheatsheets/2019/04/15/recon-resources.html
