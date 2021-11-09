@@ -3,6 +3,7 @@
 https://hackerone.com/reports/993582?__cf_chl_jschl_tk__=pmd_d4edfa2689d4773535bd4991c5ac1b735467eca6-1628409964-0-gqNtZGzNAeKjcnBszQ0O
 ```
 
-## 2. 
+## 2. Vulnerability in jwt encryption
+https://auth0.com/blog/critical-vulnerability-in-json-web-encryption/
 
 
