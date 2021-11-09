@@ -40,5 +40,9 @@ https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md
 https://medium.com/pentesternepal/cve-2021-24563-unauthenticated-stored-xss-frontend-uploader-1-3-2-8522e0890833
 
 
+## CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root.
+https://github.com/horizon3ai/CVE-2021-38647
+
+
 
 
