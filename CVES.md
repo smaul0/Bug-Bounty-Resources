@@ -36,3 +36,9 @@ Remote Code Execution on Confluence Servers
 
 https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md
 
+## CVE-2021–24563 Unauthenticated Stored XSS [Frontend Uploader <= 1.3.2]
+https://medium.com/pentesternepal/cve-2021-24563-unauthenticated-stored-xss-frontend-uploader-1-3-2-8522e0890833
+
+
+
+
