@@ -10,3 +10,8 @@ https://labs.detectify.com/2018/08/02/bypassing-exploiting-bucket-upload-policie
 ## How To Scan AWS's Entire IP Range to Recon SSL Certificates
 
 https://www.daehee.com/scan-aws-ip-ssl-certificates/
+
+
+## Deep Dive into AWS Penetration Testing
+https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
+
