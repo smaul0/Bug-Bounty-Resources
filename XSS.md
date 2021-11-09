@@ -43,7 +43,7 @@ http://www.domain.com/jwplayer/player.swf?playerready=alert(document.domain)
 ```
 https://hackerone.com/reports/859806
 
-## 8. XS in.Net
+## 8. XS in  .NET
 https://blog.isec.pl/all-is-xss-that-comes-to-the-net/
 
 
