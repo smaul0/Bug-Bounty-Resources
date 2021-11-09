@@ -7,4 +7,5 @@ https://gist.github.com/mrofisr/5010dcb4321c99329c932aaeb3172a8a
 ## 3. Common speak wordlist
 https://github.com/pentester-io/commonspeak
 
-## 4. 
+## 4. AEM wordlist
+https://github.com/clarkvoss/AEM-List/blob/main/paths
