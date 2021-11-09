@@ -33,3 +33,7 @@ https://docs.google.com/presentation/d/18o6fwqZB8wqHFYl2M5SO5KMzct8NKVW7G3edgi0X
 
 ## 12. Pentesterland
 https://pentester.land/cheatsheets/2019/04/15/recon-resources.html
+
+## 13. Red team toolkit
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
+
