@@ -46,7 +46,8 @@ https://hackerone.com/reports/859806
 ## 8. XSS in .Net
 https://blog.isec.pl/all-is-xss-that-comes-to-the-net/
 
-
+## 9. DOMXSS WIKI
+https://github.com/wisec/domxsswiki/wiki
 
 
 
