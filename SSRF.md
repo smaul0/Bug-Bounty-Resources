@@ -16,3 +16,8 @@ https://infosecwriteups.com/an-exciting-journey-to-find-ssrf-bypass-cloudflare-a
 
 ##
 https://d0nut.medium.com/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5
+
+
+## SSRF Write-ups
+https://reconshell.com/awesome-ssrf-writeups/
+
