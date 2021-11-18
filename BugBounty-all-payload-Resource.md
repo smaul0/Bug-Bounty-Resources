@@ -29,3 +29,6 @@ https://github.com/hackerscrolls/SecurityTips
 ## 10. Web Attack Cheat Sheet
 https://github.com/riramar/Web-Attack-Cheat-Sheet
 
+## 11. Collection of cheat sheets useful for pentesting
+https://github.com/coreb1t/awesome-pentest-cheat-sheets
+
