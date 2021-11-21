@@ -52,3 +52,14 @@ Host:
 
 
 
+
+
+
+
+## Full Disclosed reports
+https://seclists.org/fulldisclosure/
+
+
+
+
+
