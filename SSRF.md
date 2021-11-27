@@ -27,3 +27,11 @@ https://knassar702.github.io/scant3r-ssrf
 
 ## Simple SSRF Allows Access To Internal Assets
 https://coffeejunkie.me/Simple-SSRF/
+
+## On SSRF (Server Side Request Forgery) or Simple Stuff Rodolfo Found — Part I
+https://rodoassis.medium.com/on-ssrf-server-side-request-forgery-or-simple-stuff-rodolfo-found-part-i-4edf7ee75389
+
+
+
+
+
