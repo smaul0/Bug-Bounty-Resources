@@ -18,4 +18,8 @@ https://sapt.medium.com/sqli-on-a-bugcrowd-private-program-17858b57ec61
 ));waitfor delay '0:0:5'--
 ```
 
+## SQL Injection with FFUF and Sqlmap
+https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f
+
+
 
