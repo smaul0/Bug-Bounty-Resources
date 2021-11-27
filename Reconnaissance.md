@@ -37,3 +37,10 @@ https://pentester.land/cheatsheets/2019/04/15/recon-resources.html
 ## 13. Red team toolkit
 https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
+## 14. OSINT: Finding Email Passwords in Dumps with h8mail
+https://www.hackers-arise.com/post/osint-finding-email-passwords-in-dumps-with-h8mail
+
+
+
+
+
