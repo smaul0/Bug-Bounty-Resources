@@ -16,6 +16,10 @@ https://github.com/Karanxa/Bug-Bounty-Wordlists
 ## 6. OneListForAll
 https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt
 
+## 7. Free, libre, effective, and data-driven wordlists for all!
+https://github.com/the-xentropy/samlists
+
+
 
 
 
