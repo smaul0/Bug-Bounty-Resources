@@ -52,4 +52,11 @@ https://github.com/wisec/domxsswiki/wiki
 ## 10. Reflected XSS Through Insecure Dynamic Loading
 https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0
 
+## 11. Uber Bug Bounty: Turning Self-XSS into Good-XSS
+https://whitton.io/articles/uber-turning-self-xss-into-good-xss/
+
+
+
+
+
 
