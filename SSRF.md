@@ -21,3 +21,7 @@ https://d0nut.medium.com/piercing-the-veal-short-stories-to-read-with-friends-4a
 ## SSRF Write-ups
 https://reconshell.com/awesome-ssrf-writeups/
 
+## how to find ssrf parameters with scant3r
+https://knassar702.github.io/scant3r-ssrf
+
+
