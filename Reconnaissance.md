@@ -40,6 +40,8 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit
 ## 14. OSINT: Finding Email Passwords in Dumps with h8mail
 https://www.hackers-arise.com/post/osint-finding-email-passwords-in-dumps-with-h8mail
 
+## 15. BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation
+https://github.com/Viralmaniar/BigBountyRecon
 
 
 
