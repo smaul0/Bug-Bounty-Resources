@@ -49,6 +49,7 @@ https://blog.isec.pl/all-is-xss-that-comes-to-the-net/
 ## 9. DOMXSS WIKI
 https://github.com/wisec/domxsswiki/wiki
 
-
+## 10. Reflected XSS Through Insecure Dynamic Loading
+https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0
 
 
