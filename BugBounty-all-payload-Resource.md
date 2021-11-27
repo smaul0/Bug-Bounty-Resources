@@ -32,3 +32,9 @@ https://github.com/riramar/Web-Attack-Cheat-Sheet
 ## 11. Collection of cheat sheets useful for pentesting
 https://github.com/coreb1t/awesome-pentest-cheat-sheets
 
+## 12. Golden Guide for Pentesters
+https://github.com/0xCGonzalo/Golden-Guide-for-Pentesting
+
+
+
+
