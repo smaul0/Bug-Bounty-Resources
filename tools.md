@@ -35,6 +35,8 @@ https://github.com/m4ll0k/Bug-Bounty-Toolz
 https://hakin9.org/hackingtool-all-in-one-hacking-tool-for-hackers/
 
 
+## Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
+https://github.com/hahwul/WebHackersWeapons
 
 
 
