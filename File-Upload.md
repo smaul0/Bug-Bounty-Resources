@@ -18,3 +18,13 @@ https://labs.detectify.com/2015/05/28/building-an-xss-polyglot-through-swf-and-c
 https://hackerone.com/reports/191380
 
 https://docs.google.com/presentation/d/1-YwXl9rhzSvvqVvE_bMZo2ab-0O5wRNTnzoihB9x6jI/mobilepresent?slide=id.ga2ef157b83_0_156
+
+## Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator
+https://github.com/jonaslejon/malicious-pdf
+
+
+
+
+
+
+
