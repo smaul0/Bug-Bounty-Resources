@@ -99,4 +99,8 @@ wp-config.php~
 wp-admin/admin.php?page=wc-order-export&tab=</script><script>alert(1)</script>
 ```
 
+## Wordpress Plugin Update Confusion - The full guide how to scan and mitigate the next big Supply Chain Attack
+https://galnagli.com/Wordpress_Plugin_Update_Confusion/
+
+
 
