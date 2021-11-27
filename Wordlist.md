@@ -13,6 +13,11 @@ https://github.com/clarkvoss/AEM-List/blob/main/paths
 ## 5. Bug-Bounty-Wordlists
 https://github.com/Karanxa/Bug-Bounty-Wordlists
 
+## 6. OneListForAll
+https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt
+
+
+
 
 
 
