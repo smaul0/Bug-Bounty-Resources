@@ -25,3 +25,5 @@ https://reconshell.com/awesome-ssrf-writeups/
 https://knassar702.github.io/scant3r-ssrf
 
 
+## Simple SSRF Allows Access To Internal Assets
+https://coffeejunkie.me/Simple-SSRF/
