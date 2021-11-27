@@ -9,3 +9,10 @@ https://github.com/pentester-io/commonspeak
 
 ## 4. AEM wordlist
 https://github.com/clarkvoss/AEM-List/blob/main/paths
+
+## 5. Bug-Bounty-Wordlists
+https://github.com/Karanxa/Bug-Bounty-Wordlists
+
+
+
+
