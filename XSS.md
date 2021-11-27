@@ -55,7 +55,8 @@ https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d
 ## 11. Uber Bug Bounty: Turning Self-XSS into Good-XSS
 https://whitton.io/articles/uber-turning-self-xss-into-good-xss/
 
-
+## 12. Multi Domain DOM Cross Site Scripting
+https://coffeejunkie.me//Multi-Domain-DOM-Cross-Site-Scripting/
 
 
 
