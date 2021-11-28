@@ -58,6 +58,9 @@ https://whitton.io/articles/uber-turning-self-xss-into-good-xss/
 ## 12. Multi Domain DOM Cross Site Scripting
 https://coffeejunkie.me//Multi-Domain-DOM-Cross-Site-Scripting/
 
+## 13. Hunting for XSS with CodeQL
+https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938
+
 
 
 
