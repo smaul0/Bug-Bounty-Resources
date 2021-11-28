@@ -53,4 +53,8 @@ https://github.com/ProjectAnte/dnsgen
 ## An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 https://github.com/Cyber-Guy1/BlackDragon
 
+## Remove duplicate urls from input
+https://github.com/nytr0gen/deduplicate
+
+
 
