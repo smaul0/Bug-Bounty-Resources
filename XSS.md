@@ -61,6 +61,9 @@ https://coffeejunkie.me//Multi-Domain-DOM-Cross-Site-Scripting/
 ## 13. Hunting for XSS with CodeQL
 https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938
 
+## 14. PNG IDAT chunks XSS payload generator
+https://github.com/vavkamil/xss2png
+
 
 
 
