@@ -7,3 +7,7 @@ https://github.com/kongsec/Vulnerabilities-Approach-Slides/blob/main/Book_of_tip
 ## 3. How i hacked BBC mail servers
 https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d
 
+## 4. Bug Bounty Tips #5
+https://www.infosecmatter.com/bug-bounty-tips-5-aug-17/
+
+
