@@ -41,6 +41,8 @@ https://github.com/hahwul/WebHackersWeapons
 ## Awesome Bug Bounty Tools 
 https://github.com/vavkamil/awesome-bugbounty-tools
 
+## pocsuite3 is an open-sourced remote vulnerability testing framework
+https://github.com/knownsec/pocsuite3
 
 
 
