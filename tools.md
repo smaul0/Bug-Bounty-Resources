@@ -50,4 +50,7 @@ https://github.com/lc/secretz
 ## Generates combination of domain names from the provided input
 https://github.com/ProjectAnte/dnsgen
 
+## An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
+https://github.com/Cyber-Guy1/BlackDragon
+
 
