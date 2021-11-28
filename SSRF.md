@@ -34,7 +34,8 @@ https://rodoassis.medium.com/on-ssrf-server-side-request-forgery-or-simple-stuff
 ## Just Gopher It: Escalating a Blind SSRF to RCE for $15k — Yahoo Mail
 https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530
 
-
+## How i found an SSRF in Yahoo! Guesthouse (Recon Wins)
+https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4
 
 
 
