@@ -22,6 +22,8 @@ https://docs.google.com/presentation/d/1-YwXl9rhzSvvqVvE_bMZo2ab-0O5wRNTnzoihB9x
 ## Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator
 https://github.com/jonaslejon/malicious-pdf
 
+## Image Upload Exploits
+https://github.com/barrracud4/image-upload-exploits
 
 
 
