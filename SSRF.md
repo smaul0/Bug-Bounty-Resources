@@ -31,6 +31,9 @@ https://coffeejunkie.me/Simple-SSRF/
 ## On SSRF (Server Side Request Forgery) or Simple Stuff Rodolfo Found — Part I
 https://rodoassis.medium.com/on-ssrf-server-side-request-forgery-or-simple-stuff-rodolfo-found-part-i-4edf7ee75389
 
+## Just Gopher It: Escalating a Blind SSRF to RCE for $15k — Yahoo Mail
+https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530
+
 
 
 
