@@ -43,6 +43,9 @@ https://www.hackers-arise.com/post/osint-finding-email-passwords-in-dumps-with-h
 ## 15. BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation
 https://github.com/Viralmaniar/BigBountyRecon
 
+## 16. “CI Knew There Would Be Bugs Here” — Exploring Continuous Integration Services as a Bug Bounty Hunter
+https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/
+
 
 
 
