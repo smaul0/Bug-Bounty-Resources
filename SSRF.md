@@ -37,5 +37,8 @@ https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rc
 ## How i found an SSRF in Yahoo! Guesthouse (Recon Wins)
 https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4
 
+## dnsteal - DNS Exfiltration tool for stealthily sending files over DNS requests
+https://hakin9.org/dnsteal-dns-exfiltration-tool-for-stealthily-sending-files-over-dns-requests/
+
 
 
