@@ -4,5 +4,8 @@ https://threadreaderapp.com/thread/1464149386280144902.html
 ## IDOR through MongoDB Object IDs Prediction
 https://techkranti.com/idor-through-mongodb-object-ids-prediction/
 
+## How a simple IDOR become a $4K User Impersonation vulnerability
+https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d
+
 
 
