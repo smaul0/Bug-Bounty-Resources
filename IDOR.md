@@ -7,5 +7,6 @@ https://techkranti.com/idor-through-mongodb-object-ids-prediction/
 ## How a simple IDOR become a $4K User Impersonation vulnerability
 https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d
 
-
+## IDOR checklist
+https://www.notion.so/IDOR-Attack-vectors-exploitation-bypasses-and-chains-0b73eb18e9b640ce8c337af83f397a6b
 
