@@ -64,6 +64,8 @@ https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938
 ## 14. PNG IDAT chunks XSS payload generator
 https://github.com/vavkamil/xss2png
 
+## 15. XSS to Account takeover in payu.in
+https://blog.amanrawat.in/2021/02/01/xss-to-account-takeover-payu.html
 
 
 
