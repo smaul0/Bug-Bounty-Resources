@@ -47,6 +47,7 @@ https://github.com/knownsec/pocsuite3
 ## secretz, minimizing the large attack surface of Travis CI
 https://github.com/lc/secretz
 
+## Generates combination of domain names from the provided input
+https://github.com/ProjectAnte/dnsgen
 
 
- 
