@@ -44,6 +44,9 @@ https://github.com/vavkamil/awesome-bugbounty-tools
 ## pocsuite3 is an open-sourced remote vulnerability testing framework
 https://github.com/knownsec/pocsuite3
 
+## secretz, minimizing the large attack surface of Travis CI
+https://github.com/lc/secretz
+
 
 
  
