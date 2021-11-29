@@ -25,7 +25,7 @@ https://blog.appsecco.com/static-analysis-of-client-side-javascript-for-pen-test
 ## 9.JavaScript Enumeration for bug bounty hunters
 https://thehackerish.com/javascript-enumeration-for-bug-bounty-hunters/
 
-
-
+## 10. Javascript Files
+https://docs.google.com/presentation/d/18v_FXKm-HC3uaBotAoUDHTlOv40caA5WyvvupJRX5Uk/mobilepresent?slide=id.gaba040f84d_4_34
 
 
