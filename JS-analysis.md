@@ -22,3 +22,10 @@ https://github.com/ShutdownRepo/telegram-bot-cli
 ## 8. Static Analysis of Client-Side JavaScript
 https://blog.appsecco.com/static-analysis-of-client-side-javascript-for-pen-testers-and-bug-bounty-hunters-f1cb1a5d5288
 
+## 9.JavaScript Enumeration for bug bounty hunters
+https://thehackerish.com/javascript-enumeration-for-bug-bounty-hunters/
+
+
+
+
+
