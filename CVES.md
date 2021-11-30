@@ -68,6 +68,8 @@ https://git-cve.system00-sec.com/?cve=CVE-2021-1056
 ## RCE 0-day for GhostScript 9.50 - Payload generator
 https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
 
+## (CVE-2021-41765 | CVE-2021-41950 | CVE-2021-41951) 
+https://www.horizon3.ai/multiple-vulnerabilities-in-resourcespace/
 
 
 
