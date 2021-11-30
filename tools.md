@@ -56,5 +56,6 @@ https://github.com/Cyber-Guy1/BlackDragon
 ## Remove duplicate urls from input
 https://github.com/nytr0gen/deduplicate
 
-
+## Uniscan: An RFI, LFI, and RCE Vulnerability Scanner
+https://securitytrails.com/blog/uniscan
 
