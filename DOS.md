@@ -9,4 +9,8 @@ https://portswigger.net/research/responsible-denial-of-service-with-web-cache-po
 https://hackerone.com/reports/993582?__cf_chl_jschl_tk__=pmd_d4edfa2689d4773535bd4991c5ac1b735467eca6-1628409964-0-gqNtZGzNAeKjcnBszQ0O
 ```
 
-## 3. 
+## 3. Overflow Trilogy ( HTTP Response Splitting with Header Overflow | Denial of Service with Cookie Bomb | DOM based Cookie Bomb )
+https://blog.innerht.ml/overflow-trilogy/
+
+
+
