@@ -71,8 +71,8 @@ https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
 ## (CVE-2021-41765 | CVE-2021-41950 | CVE-2021-41951) 
 https://www.horizon3.ai/multiple-vulnerabilities-in-resourcespace/
 
-
-
+## Tool that helps to embed a PostScript file into a PDF in a way that GhostScript will run the PostScript code during the PDF processing
+https://github.com/neex/ghostinthepdf
 
 
 
