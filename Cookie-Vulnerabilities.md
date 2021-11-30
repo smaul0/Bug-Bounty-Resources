@@ -7,3 +7,7 @@ https://github.com/imran-parray/Mind-Maps/blob/master/Cookie%20Based%20Authentic
 ## Overflow Trilogy ( HTTP Response Splitting with Header Overflow | Denial of Service with Cookie Bomb | DOM based Cookie Bomb )
 https://blog.innerht.ml/overflow-trilogy/
 
+## Using Burp to Test Session Token Generation
+https://portswigger.net/support/using-burp-to-test-session-token-generation
+
+
