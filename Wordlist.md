@@ -19,8 +19,8 @@ https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt
 ## 7. Free, libre, effective, and data-driven wordlists for all!
 https://github.com/the-xentropy/samlists
 
-
-
+## 8. wordlists for each versions of common web applications and content management systems (CMS)
+https://github.com/p0dalirius/webapp-wordlists
 
 
 
