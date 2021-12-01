@@ -40,5 +40,8 @@ https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins
 ## dnsteal - DNS Exfiltration tool for stealthily sending files over DNS requests
 https://hakin9.org/dnsteal-dns-exfiltration-tool-for-stealthily-sending-files-over-dns-requests/
 
+## Blind SSRF in URL Validator
+https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68
+
 
 
