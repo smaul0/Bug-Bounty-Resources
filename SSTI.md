@@ -15,3 +15,6 @@ https://github.com/err0rr/SSTI/blob/master/Wordlist
 ## 5.
 https://verneet.com/fuzzing-77-till-p1/
 
+## 6. limited freemarker ssti to arbitrary liql query and manage lithium cms
+https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/
+
