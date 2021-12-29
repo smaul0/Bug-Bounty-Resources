@@ -1,8 +1,8 @@
 ## Account Takeovers — Believe the Unbelievable
 https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4
 
+## Account takeover using email changing feature
 ```
-Acc takeover : 
 1. evil@a.com changes mail to 2@gmail.com (owned) -> gets email verification link
 2. sends link to victim, victim opens and victims account email is updated
 
