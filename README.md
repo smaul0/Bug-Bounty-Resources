@@ -6,4 +6,4 @@ Bug Bounty Writeups and exploit's resource
 
 
 
-** Use it only for ethical purpose**
+**Use it only for ethical purpose**
