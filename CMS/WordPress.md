@@ -123,6 +123,15 @@ $redux_code = b1mzZ3%2BU0p43TZ6%2F7QJaYU0hJMHgdcT5Bc%2Bnyo4t3xUenDRm0Ef8HipC7EMK
 ```
 
 
+```
+For WordPress wp-config file, if the main endpoint is forbidden we can also check for the backup file
 
+redacted[.]com/wp-config.php => 403 Forbidden
+
+redacted[.]com/wp-config.php_orig => 200 OK
+
+Also try:
+ _new _old _orig _bkp _bak with dashes,fullstops and underscores
+```
 
 
