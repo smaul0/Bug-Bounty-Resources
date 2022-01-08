@@ -67,5 +67,10 @@ https://github.com/vavkamil/xss2png
 ## 15. XSS to Account takeover in payu.in
 https://blog.amanrawat.in/2021/02/01/xss-to-account-takeover-payu.html
 
+## 16. Magic Header Blind Xss tool (deliver blind xss payloads in request headers).
+https://github.com/adrianscheff/pegaxss
+
+
+
 
 
