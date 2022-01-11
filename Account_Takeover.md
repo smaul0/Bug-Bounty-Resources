@@ -9,4 +9,7 @@ https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c25
 The reason is the token wasn't tied to session of user!
 ```
 
+## change victim’s password using IDN Homograph Attack
+https://infosecwriteups.com/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff
+
 
