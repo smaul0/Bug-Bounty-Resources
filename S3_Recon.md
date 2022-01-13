@@ -42,4 +42,5 @@ It means the target application is storing their data to the Amazon server and t
 ## Method 6:
 Sometimes you find Amazon bucket in Content-Security-Policy Response headers
 
-## Method 7:Online Websites https://buckets.grayhatwarfare.com/
+## Method 7:
+Online Websites https://buckets.grayhatwarfare.com/
