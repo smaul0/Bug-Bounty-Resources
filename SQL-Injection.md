@@ -21,5 +21,10 @@ https://sapt.medium.com/sqli-on-a-bugcrowd-private-program-17858b57ec61
 ## SQL Injection with FFUF and Sqlmap
 https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f
 
+## Advanced sql injection cheat sheet
+https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
+
+
+
 
 
