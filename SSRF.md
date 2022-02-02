@@ -43,5 +43,8 @@ https://hakin9.org/dnsteal-dns-exfiltration-tool-for-stealthily-sending-files-ov
 ## Blind SSRF in URL Validator
 https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68
 
+## Hacking google drive integration
+https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md
+
 
 
