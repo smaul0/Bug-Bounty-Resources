@@ -46,5 +46,5 @@ https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68
 ## Hacking google drive integration
 https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md
 
-## larksuite ssef protection bypass to exfiltrate aws metadata
+## Larksuite ssrf protection bypass to exfiltrate aws metadata
 https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462
