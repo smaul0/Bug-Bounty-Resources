@@ -92,3 +92,8 @@ https://github.com/0xInfection/LogMePwn
 https://github.com/adilsoybali/Log4j-RCE-Scanner
 
 
+## 
+https://sploitus.com/?query=cve#exploits
+
+
+
