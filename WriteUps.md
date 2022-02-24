@@ -13,3 +13,7 @@ https://pentester.land/list-of-bug-bounty-writeups.html
 ## 5. Sillydaddy
 https://www.sillydaddy.me/
 
+## 6. 
+https://cure53.de/#publications
+
+
