@@ -22,3 +22,6 @@ https://github.com/Mr-xn/Penetration_Testing_POC
 ## 
 https://kuldeep.io/posts/120-days-of-high-frequency-hunting/#ac-in-reportspostsphp-leaking-pii
 
+## 
+https://www.agarri.fr/en/publications.html
+
