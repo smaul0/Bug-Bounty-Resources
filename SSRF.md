@@ -51,3 +51,6 @@ https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-
 
 ## 
 https://github.com/Damian89/extended-ssrf-search
+
+## 
+https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51
