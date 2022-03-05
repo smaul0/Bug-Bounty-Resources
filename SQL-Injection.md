@@ -24,6 +24,9 @@ https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and
 ## Advanced sql injection cheat sheet
 https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
 
+## upload webshell using sql
+https://securityonline.info/sql-injection-rce/
+
 
 
 
