@@ -81,5 +81,7 @@ https://spaceraccoon.dev/solving-dom-xss-puzzles
 ## 
 https://swarm.ptsecurity.com/fuzzing-for-xss-via-nested-parsers-condition/
 
+## 
+https://brutelogic.com.br/blog/xss-filter-bypass-spell-checking/
 
 
