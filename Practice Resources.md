@@ -17,4 +17,5 @@ https://github.com/optiv/InsecureShop
 ## 
 https://github.com/Bypass007/Learn-security-from-0
 
-
+## 
+https://github.com/kaiiyer/awesome-vulnerable
