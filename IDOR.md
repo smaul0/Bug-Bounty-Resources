@@ -13,4 +13,7 @@ https://www.notion.so/IDOR-Attack-vectors-exploitation-bypasses-and-chains-0b73e
 ## 
 https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/
 
+## 
+https://github.com/muffyhub/Mindmaps/blob/main/IDOR%20Techniques.png
+
 
