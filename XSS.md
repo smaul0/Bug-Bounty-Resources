@@ -78,6 +78,8 @@ https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/
 ## Solving dom xss puzzles
 https://spaceraccoon.dev/solving-dom-xss-puzzles
 
+## 
+https://swarm.ptsecurity.com/fuzzing-for-xss-via-nested-parsers-condition/
 
 
 
