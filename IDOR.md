@@ -10,3 +10,7 @@ https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulner
 ## IDOR checklist
 https://www.notion.so/IDOR-Attack-vectors-exploitation-bypasses-and-chains-0b73eb18e9b640ce8c337af83f397a6b
 
+## 
+https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/
+
+
