@@ -65,5 +65,9 @@ https://inventory.raw.pm/
 ## Uniscan: An RFI, LFI, and RCE Vulnerability Scanner
 https://securitytrails.com/blog/uniscan
 
+## Malicious PDF Generator
+https://github.com/jonaslejon/malicious-pdf
+
+
 
 
