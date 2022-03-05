@@ -15,3 +15,8 @@ https://www.daehee.com/scan-aws-ip-ssl-certificates/
 ## Deep Dive into AWS Penetration Testing
 https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
 
+
+## the-infamous-8kb-aws-waf-request-body-inspection-limitation
+https://kloudle.com/blog/the-infamous-8kb-aws-waf-request-body-inspection-limitation
+
+
