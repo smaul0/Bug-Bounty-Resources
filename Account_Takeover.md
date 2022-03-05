@@ -12,4 +12,6 @@ The reason is the token wasn't tied to session of user!
 ## change victim’s password using IDN Homograph Attack
 https://infosecwriteups.com/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff
 
+## 
+https://medium.com/techiepedia/p5-to-p1-intresting-account-takeover-6e59b879494b
 
