@@ -25,3 +25,8 @@ https://github.com/p0dalirius/webapp-wordlists
 ## 9. 
 https://github.com/orwagodfather/WordList
 
+## 10. Web Pentesting Fuzz dictionary, one is enough.
+https://github.com/TheKingOfDuck/fuzzDicts
+
+
+
