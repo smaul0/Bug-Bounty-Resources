@@ -71,6 +71,13 @@ https://blog.amanrawat.in/2021/02/01/xss-to-account-takeover-payu.html
 https://github.com/adrianscheff/pegaxss
 
 
+## What Bypassing Razer's DOM-based XSS Patch Can Teach Us
+https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/
+
+
+## Solving dom xss puzzles
+https://spaceraccoon.dev/solving-dom-xss-puzzles
+
 
 
 
