@@ -48,3 +48,6 @@ https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations
 
 ## Larksuite ssrf protection bypass to exfiltrate aws metadata
 https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462
+
+## 
+https://github.com/Damian89/extended-ssrf-search
