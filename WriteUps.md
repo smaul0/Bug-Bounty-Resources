@@ -28,5 +28,8 @@ https://www.agarri.fr/en/publications.html
 ##
 https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/
 
+## 
+https://medium.com/manomano-tech/finding-zero-day-vulnerabilities-in-the-supply-chain-28afa43b0f6e
+
 
 
