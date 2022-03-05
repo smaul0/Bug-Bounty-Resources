@@ -25,3 +25,8 @@ https://kuldeep.io/posts/120-days-of-high-frequency-hunting/#ac-in-reportspostsp
 ## 
 https://www.agarri.fr/en/publications.html
 
+##
+https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/
+
+
+
