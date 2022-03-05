@@ -7,6 +7,9 @@ https://medium.com/@TutorialBoy24/an-unauthenticated-rce-vulnerability-in-movabl
 ## 
 https://machevalia.blog/remote-code-execution-in-tgz-file-upload/
 
+## 
+https://medium.com/manomano-tech/the-tale-of-a-click-leading-to-rce-8f68fe93545d
+
 
 
 
