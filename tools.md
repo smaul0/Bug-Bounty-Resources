@@ -62,4 +62,8 @@ https://securitytrails.com/blog/uniscan
 ## Tool Finder
 https://inventory.raw.pm/
 
+## Uniscan: An RFI, LFI, and RCE Vulnerability Scanner
+https://securitytrails.com/blog/uniscan
+
+
 
