@@ -38,6 +38,7 @@ https://github.com/0xCGonzalo/Golden-Guide-for-Pentesting
 ## 13. Resources & Disclosed Reports 
 https://github.com/HolyBugx/HolyTips/tree/main/Resources#Recon
 
-
+## 14. BBRE 
+https://labs.bugbountyexplained.com/archive
 
 
