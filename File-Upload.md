@@ -26,7 +26,8 @@ https://github.com/jonaslejon/malicious-pdf
 https://github.com/barrracud4/image-upload-exploits
 
 
-
+## Image upload bypass with magic byte
+https://danielxblack.ghost.io/bypassing-file-upload-restrictions-with-a-magic-byte-and-hex-editor/
 
 
 
