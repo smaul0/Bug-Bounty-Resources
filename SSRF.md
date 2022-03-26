@@ -54,3 +54,13 @@ https://github.com/Damian89/extended-ssrf-search
 
 ## 
 https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51
+
+
+## An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability
+https://github.com/assetnote/blind-ssrf-chains
+
+
+
+
+
+
