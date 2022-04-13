@@ -59,8 +59,8 @@ https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51
 ## An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability
 https://github.com/assetnote/blind-ssrf-chains
 
-
-
+## SVG SSRFs and saga of bypasses
+https://infosecwriteups.com/svg-ssrfs-and-saga-of-bypasses-777e035a17a7
 
 
 
